@@ -58,9 +58,6 @@ This plugin is licensed under the GPL2 license.
 4. Push to the branch.
 5. Open a pull request.
 
-## Support
-For support and inquiries, please contact [your-email@example.com].
-
 ---
 
-Developed by [Your Name](http://example.com)
+Developed by Mohammed Numan Raza
