@@ -40,13 +40,13 @@ Use the following shortcodes to display content on your pages or posts:
 - `[lms_lessons]` - Display all lessons
 - `[lms_quizzes]` - Display all quizzes
 
-## Screenshots
+<!-- ## Screenshots
 1. **Course Management**
    ![Course Management](screenshots/course-management.png)
 2. **Lesson Management**
    ![Lesson Management](screenshots/lesson-management.png)
 3. **Quiz Management**
-   ![Quiz Management](screenshots/quiz-management.png)
+   ![Quiz Management](screenshots/quiz-management.png) -->
 
 ## License
 This plugin is licensed under the GPL2 license.
