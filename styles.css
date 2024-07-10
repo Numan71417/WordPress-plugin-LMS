@@ -1,0 +1,10 @@
+.lms-courses, .lms-lessons, .lms-quizzes {
+    list-style: none;
+    padding: 0;
+}
+
+.lms-courses li, .lms-lessons li, .lms-quizzes li {
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    padding: 10px;
+}
